@@ -1,0 +1,7 @@
+{
+  "name": "searchAppIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
